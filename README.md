@@ -4,9 +4,9 @@ Welcome to the Academy of Technolgy's campus tour website presented by the team 
 
 
 # Error-404 members
-## Team leader
+## Team lead
 Anik Mukherjee
-## members
+## Members
 Arka Karmakar
 Debasmita Deb
 Ipsita Nayek
